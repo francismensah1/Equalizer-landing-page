@@ -142,7 +142,7 @@ body {
 .android-btn {
 	margin-top: 1rem;
 	background-color: var(--android-button-default-color);
-    transition: 0.3s;
+	transition: background-color 0.15s;
 }
 
 .android-btn:hover {
@@ -152,7 +152,7 @@ body {
 .ios-btn {
 	background-color: var(--ios-button-hover-color);
 	color: #fcfaf9;
-    transition: 0.3s;
+    transition: background-color 0.15s;
 }
 
 .ios-btn:hover {
@@ -188,7 +188,7 @@ body {
 }
 
 .social-icon {
-    transition: 0.3s; 
+	transition: background-color 0.15s;
 }
 
 .social-icon:hover {
