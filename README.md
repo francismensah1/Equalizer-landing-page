@@ -34,9 +34,12 @@ Users should be able to:
 
 In this challenge, I learned more about the background property and how to use it to deal with multiple backgrounds (especially the positioning). I also learned about the mobile-first workflow and how to use media queries to make the website responsive.
 
+I also learned how to deploy and a website for the first time using github Pages.
+
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
+- [GitHub Pages](https://pages.github.com/ )
 
 ## Author
 - Website - [Francis Morkeh Mensah](https://github.com/francismensah1)
