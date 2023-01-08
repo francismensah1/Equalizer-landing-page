@@ -18,6 +18,20 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+### Screenshot
+
+**Desktop**
+
+<img src="./screenshots/desktop.jpg" width=50% height=50%>
+
+**Tablet**
+
+<img src="./screenshots/tablet.jpg" width=30% height=30%>
+
+**Mobile**
+
+<img src="./screenshots/mobile.jpg" width=20% height=20%>
+
 ### Links
 
 - Solution URL: [Github URL](https://github.com/francismensah1/Equalizer-landing-page)
